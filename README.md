@@ -1,5 +1,5 @@
-# NeurIPS2024-Deep-Supervision-Distillation
-Source Code for anonymous NeurIPS2024 submission, 'Overcoming Intermediate Layer Forgetting for Online Class-Incremental Continual Learning'.
+Deep-Supervision-Distillation
+Source Code for anonymous conference submission, 'Overcoming Intermediate Layer Forgetting for Online Class-Incremental Continual Learning'.
 
 ### Requirements
 pip install -r requirements.txt
